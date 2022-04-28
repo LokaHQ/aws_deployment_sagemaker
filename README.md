@@ -1,6 +1,6 @@
-# LOKA x AWS Immersion Day: SageMaker ala Carte
+# LOKA x AWS Sagemaker deployment Day
 
-Code used in the AWS Immersion Day: SageMaker ala Carte organized by Loka and celebrated on November 2nd of 2021.
+Code used in the AWS Immersion Day: Deployment day organized by Loka and celebrated on May 5th of 2022.
 
 ## Repo Structure
 
