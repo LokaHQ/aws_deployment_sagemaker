@@ -18,7 +18,7 @@ IMPORTANT NOTE: Before trying the following notebooks, activate the conda enviro
 ```
 
 ```
-conda env create -f environment.yml && conda activate aws-inmmersion
+conda env create -f environment.yaml && conda activate aws-inmmersion
 ```
 
 ### Training a Model with SageMaker's XGBoost
